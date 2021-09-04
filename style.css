@@ -1,0 +1,19 @@
+#container{
+    width: 90%;
+    margin: 5%;
+    min-height: 50vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#inputdiv1 , #inputdiv2{
+
+    width: 40vw;
+    height: 30vh;
+    background-color: brown;
+    margin:10px ;
+    
+}
